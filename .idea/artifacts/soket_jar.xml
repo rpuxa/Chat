@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="soket:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/soket_jar</output-path>
+    <root id="archive" name="soket.jar">
+      <element id="module-output" name="soket" />
+    </root>
+  </artifact>
+</component>
